@@ -1,2 +1,2 @@
-# Yubi_maker
-Yubi maker is a test
+# Alternative to the very ceremonious REDUX
+You don't-need REDUX
